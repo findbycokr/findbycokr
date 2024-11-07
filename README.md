@@ -15,5 +15,5 @@
 ```
 
 ## 기타문의
-
-`findby.webmaster@gmail.com` 로 문의해주시면 감사드리겠습니다 :)
+* 노션 : https://www.notion.so/129c43723d9980438f75cc1356aa302b
+* `findby.webmaster@gmail.com` 로 문의해주시면 감사드리겠습니다 :)
