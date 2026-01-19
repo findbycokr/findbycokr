@@ -7,7 +7,7 @@
 깃허브를 통해 보다 편리한 프로그램을 만들어보고 배포해보려고 노력해볼게요. (아직 공부할게 많지만..)  
 
 🎈 새소식 : **2025년 12월 최신 정보 기준(2026년 1월 13일자)** 업데이트가 완료 되었습니다!  
-🤖 LLM 소식 : [LLM Search 기술명세](https://findby.co.kr/llm.txt) LLM Search Query 규칙성 명세 내용 안내 (2026.01.19)
+🤖 LLM 소식 : [LLM Search 기술명세](https://findby.co.kr/llms.txt) LLM Search Query 규칙성 명세 내용 안내 (2026.01.19)
 
 **데이터베이스 업데이트** 소식
 
